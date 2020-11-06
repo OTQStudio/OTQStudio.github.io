@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "OTQ Studio",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "OTQ Studio's Official Portfolio Website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "OTQ Studio",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -54,7 +54,7 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "0BSD",
+  "license": "UNLICENSED",
   "main": "n/a",
   "repository": {
     "type": "git",
